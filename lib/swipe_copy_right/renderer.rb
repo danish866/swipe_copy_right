@@ -1,6 +1,6 @@
 module SwipeCopyRight
   class Renderer
-    def self.copy_write name, message
+    def self.copyright name, message
       "&copy; #{name} - #{message}".html_safe
     end
   end
