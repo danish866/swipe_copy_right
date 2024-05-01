@@ -1,6 +1,6 @@
 # SwipeCopyRight
 
-> Various view specific methods for applications.
+> Various view specific methods for ruby on rails applications.
 
 ## Installation
 
