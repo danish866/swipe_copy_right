@@ -4,9 +4,13 @@
 
 ## Installation
 
-Install the gem and add to the application's Gemfile by executing:
+Install this line to your application's Gemfile:
 
-    $ bundle add swipe_copy_right
+    $ gem 'swipe_copy_right'
+
+And then execute:
+
+    $ bundle install
 
 If bundler is not being used to manage dependencies, install the gem by executing:
 
